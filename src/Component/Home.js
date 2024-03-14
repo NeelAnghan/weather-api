@@ -14,9 +14,9 @@ export default function Home() {
                                         <h1>Weather & Forecast <br /> Application</h1>
                                         <p>Use weather application and get weather information daily and daily. Download weather
                                             forecast for free and experience.</p>
-                                        <div className='d-flex'>
-                                            <button type='button' className="btn1"><i className="fa-brands fa-apple ico1"></i>APP STORE</button>
-                                                <button type='button' className="btn1 ms-2"> <i className="fa-brands fa-google-play pe-3"></i> PLAY STORE</button>
+                                        <div className='row'>
+                                            <button type='button' className="btn1 col-lg-3 col-6"><i className="fa-brands fa-apple ico1"></i>APP STORE</button>
+                                                <button type='button' className="btn1 ms-2 col-lg-3 col-6"> <i className="fa-brands fa-google-play pe-3"></i> PLAY STORE</button>
                                         </div>
                                     </div>
                                 </div>
