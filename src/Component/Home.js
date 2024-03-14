@@ -15,8 +15,11 @@ export default function Home() {
                                         <p>Use weather application and get weather information daily and daily. Download weather
                                             forecast for free and experience.</p>
                                         <div className='row'>
+                                            // <div className='col-lg-3 col-12'>
+                                            //     <button type='button' className="btn1"><i className="fa-brands fa-apple ico1 pe-3"></i>APP STORE</button>
+                                            // </div>
                                             <div className='col-lg-3 col-12'>
-                                                <button type='button' className="btn1"><i className="fa-brands fa-apple ico1 pe-3"></i>APP STORE</button>
+                                                <button type='button' className="btn1 ms-2"> <i className="fa-brands fa-apple pe-3"></i>APP STORE</button>
                                             </div>
                                             <div className='col-lg-3 col-12'>
                                                 <button type='button' className="btn1 ms-2"> <i className="fa-brands fa-google-play pe-3"></i> PLAY STORE</button>
