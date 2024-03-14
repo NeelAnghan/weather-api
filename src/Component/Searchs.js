@@ -8,7 +8,7 @@ export default function Searchs(props) {
                 <div className=" container">
                     <div className='main-div'>
                         <div className=' row'>
-                            <div className=" col-lg-6">
+                            <div className=" col-lg-6 col-12">
                                 <div className='search mt-3'>
                                     <form className=' w-100 mb-5'>
                                         <label className='form-label'>Enter City Name</label><br />
@@ -26,7 +26,7 @@ export default function Searchs(props) {
                                     </form>
                                 </div>
                             </div>
-                            <div className="col-lg-6 mt-3 mt-lg-0">
+                            <div className="col-lg-6 col-12 mt-3 mt-lg-0">
                                 <div className="card bg-dark overflow-hidden" style={{ borderRadius: '40px',height:'100%',border: '3px solid #28405c' }}>
                                     <div className="bg-image" style={{ borderRadius: '35px',height:'100%' }}>
                                         <img src="assets/img/search-img.jpg"
