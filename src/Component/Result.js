@@ -23,7 +23,7 @@ export default function Result(props) {
     }
   } else {
     ShowData = (
-      <div>
+      <div className='col-12'>
         <section className='result-section'>
           <div className=' container'>
             <h2 className=' text-center mb-4'>Weather description</h2>
