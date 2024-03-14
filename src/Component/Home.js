@@ -18,7 +18,7 @@ export default function Home() {
                                             <div className='col-lg-3 col-md-3 col-sm-3 col-12'>
                                                 <button type='button' className="btn1"> <i className="fa-brands fa-apple pe-3"></i>APP STORE</button>
                                             </div>
-                                            <div className='col-lg-3 col-md-3 col-sm-3 col-12 msl-g-5'>
+                                            <div className='col-lg-3 col-md-3 col-sm-3 col-12 ms-lg-5'>
                                                 <button type='button' className="btn1"> <i className="fa-brands fa-google-play pe-3"></i> PLAY STORE</button>
                                             </div>
                                         </div>
